@@ -1,8 +1,7 @@
-# Geofeed for prefixes originated by AS63526 (SSD-TECH / Carnival Internet)
+# Geofeed for prefixes originated by AS63526 (SSD-TECH)
 # Format: prefix,country,region,city,postal (RFC 8805)
-# Updated: 2026-10-27
+# Updated: 2026-11-01
 #
-# Carnival Internet / Carnival-Internet
 45.125.220.0/24,BD,,,
 45.125.221.0/24,BD,,,
 45.125.222.0/24,BD,,,
@@ -26,32 +25,23 @@
 103.239.253.0/24,BD,,,
 103.239.254.0/24,BD,,,
 103.239.255.0/24,BD,,,
-# Carnival Assure Limited
+# Customer assignments
 103.147.162.0/24,BD,,,
 103.147.163.0/24,BD,,,
-# Carnival Care Limited
 103.231.238.0/24,BD,,,
 103.231.239.0/24,BD,,,
-# The Eastern Pickle Company Limited
 103.48.160.0/24,BD,,,
 103.48.161.0/24,BD,,,
-# Techhub Solutions
 103.72.60.0/24,BD,,,
 103.72.61.0/24,BD,,,
-# Pulse Pay Limited
 103.122.142.0/24,BD,,,
 103.122.143.0/24,BD,,,
-# eCourier Limited
 103.149.142.0/24,BD,,,
 103.149.143.0/24,BD,,,
-# Dot Lines Bangladesh Limited
 103.159.129.0/24,BD,,,
-# The Codero Ltd.
 103.177.246.0/24,BD,,,
 103.177.247.0/24,BD,,,
-# Intech Limited
 114.129.14.0/24,BD,,,
 114.129.15.0/24,BD,,,
-# Sweet Web Host
 160.22.20.0/24,BD,,,
 160.22.21.0/24,BD,,,
